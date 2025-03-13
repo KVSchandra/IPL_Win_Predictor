@@ -6,7 +6,7 @@ The **IPL Win Predictor** is a **machine learning-powered web application** that
 ## Tech Stack
 - **Backend & ML**: Python, NumPy, Pandas, Scikit-Learn
 - **Frontend**: Streamlit (for an interactive UI)
-- **Deployment**: Heroku, GitHub Pages
+- **Deployment**: Render
 
 ## Features
 **ML-Based Predictions** – Predict IPL match outcomes using historical data  
