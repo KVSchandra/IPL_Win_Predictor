@@ -15,21 +15,6 @@ The **IPL Win Predictor** is a **machine learning-powered web application** that
 **Model Training** – Machine learning pipeline using Scikit-Learn  
 **Cloud Deployment** – Hosted on **Render** for accessibility  
 
-## Project Structure
-```
-📦 IPL_Win_Predictor
-├── 📂 data                # Historical match data and statistics
-├── 📂 models              # Trained ML models
-├── 📂 src                 # Source code for backend & ML
-│   ├── preprocess.py      # Data preprocessing scripts
-│   ├── train_model.py     # Model training script
-│   ├── predict.py         # Prediction logic
-├── 📂 ui                  # Streamlit UI components
-│   ├── app.py             # Main application
-├── requirements.txt       # Dependencies
-├── README.md              # Project documentation
-```
-
 ## Installation & Usage
 1. Clone the repository:
    ```sh
